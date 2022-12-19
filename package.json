@@ -1,0 +1,25 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "https://kawa1lg1rl.github.io/docs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kawa1lg1rl/docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kawa1lg1rl/docs/issues"
+  },
+  "homepage": "https://github.com/kawa1lg1rl/docs#readme",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.59"
+  }
+}
